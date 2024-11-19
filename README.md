@@ -1,4 +1,5 @@
 Bike Sales Data Analysis
+
 This project involves the cleaning, analysis, and visualization of a bike dataset in Excel. I transformed the raw data to make it more insightful by removing duplicates, handling missing values, and creating a user-friendly dashboard using pivot tables.
 
 Project Overview
@@ -9,6 +10,11 @@ Data Transformation and Analysis: Organized and transformed data for easy analys
 Data Visualization: Built visualizations using pivot tables to highlight key insights.
 Dashboard Creation: Created an interactive dashboard in Excel to summarize the main findings.
 Steps
+
+<img width="1440" alt="Screenshot 2024-11-18 at 9 06 19 PM" src="https://github.com/user-attachments/assets/daec8858-eab4-451d-af55-28f601c5724c">
+                            
+                            
+
 1. Data Cleaning
 Duplicate Removal: I identified and removed duplicate rows to ensure data integrity.
 Handling Missing Values: For columns with missing values, I either filled in reasonable defaults or removed the rows based on the relevance of the missing data.
@@ -22,6 +28,10 @@ Categorization: Categorized customer demographics (e.g., age groups and income b
 3. Data Visualization
 Using Pivot Tables in Excel, I created multiple visualizations to explore and display key insights:
 
+<img width="1440" alt="Screenshot 2024-11-18 at 5 56 47 PM" src="https://github.com/user-attachments/assets/90967ad3-4bfa-4cbc-8d7f-c33349eb01fb">
+
+
+
 Bike Purchases by Age Group: Analyzed the average age of customers who purchased bikes.
 Average Commute Distance: Explored how commute distance affects bike purchasing likelihood.
 Income vs. Bike Purchase: Examined the correlation between income levels and bike purchases.
@@ -33,4 +43,6 @@ Data Summary: Created a high-level summary of the key metrics, including total b
 Visual Elements: Used charts, graphs, and color-coding to make the dashboard visually engaging and intuitive to understand.
 Results
 The dashboard provides a comprehensive overview of bike sales trends, with insights into customer demographics and purchase patterns. This project demonstrates the power of Excel for data cleaning, analysis, and visualization in a business context.
+
+<img width="1440" alt="Screenshot 2024-11-18 at 5 56 56 PM" src="https://github.com/user-attachments/assets/63cf90f6-54ea-47b7-bc75-9a33104b93bb">
 
